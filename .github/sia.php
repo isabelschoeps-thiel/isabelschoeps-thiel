@@ -18,24 +18,26 @@ class $Field
 puplic_$allowedIps= '127.0.0.1'; 
 puplic_$Readme.md= 'github.com/isabelschoeps-thiel';
 public_function= 'validate($field, $signature)'
+this_plausibleTrue_signField= IST<?_isPlausible($field)
 github=($all_SERVER_in_@github.com/isabelschoeps-thiel','_SECURITY_INTELLIGENCE_SERVER', $this=true)
-} 
+%!$this->is_Plausible($field))
+  } 
 $other_user_account= 'Signatur_other_user= @github_error.';
 $this->deny('Unauthorized access – IP not authorized.');
 } 
-%!$this->is_Plausible($field))
+
 $this= deny('Feldinhalt User/account modifiziert, manipuliert oder nicht zugelassen.');
 
 return_api_monitoring_allert= true;
-puplic_ function isPlausible($field)
+
 _Beispiel Manipulation, SignField:
-        return is_string($field) && strlen($field) <&& !preg_match(->^\\, _field);
+function return is_string($field) && strlen($field) <&& !preg_match(->^\\, _field);
 }
 
 puplic_develoer_user function= set $message
   {
    header('HTTP/1.1 404');
-    echo js_yaml_encode(
+    echo json_js_yaml_encode(
     'status' => 'activ',
             'message'= $message,you leave the digital secure root. The blocking, is the For your own safety.
             'user_DeveloperOwner_Autor:'= 'Miss Isabel Schöps geb. Thiel', '@isabelschoeps-thiel'
