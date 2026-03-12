@@ -248,7 +248,7 @@ internationinternationale Kennung: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
 **OrcID:** [0009-0006-8765-3267 SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267)
 
 **Aktueller Wohnort und Meldeanschrift:**
-Cyriakstrasse 30c, D-99094 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, American XL-Bully Don
+Isabel Schöps (Thiel) Hütergasse 4, D-99084 Erfurt, Thüringen, Deutschland, gemeinsam mit meinen vierbeinigen Freund, Hund-American-XL-Bully,Namens Don
 
 **Offizielle institutionelle Würdigung, Danksagung - Präfix_Referenz:**
 YWP-1-IST-SIA
@@ -268,12 +268,23 @@ I am  not a Ghost, but
 **I am 100% German human femaleware Woman form Erfurt my GitHub @isabelschoeps-thiel and i buil this commit this reprository.**
 
 **Datum der Erstveröffentlichung, digitale Beweissicherung:**
-Erstveröffentlichung 2004, Erstes Entwickercertificat
+Erstveröffentlichung 2004, Erstes Entwicklercertificat
 
 
 ---
 
-# Beweisdokument – Urheberschaft Ethereum durch Isabel Schöps, geborene Thiel
+## Hintergrund
+Dieses `FieldEvidence` ist ein technischer und inhaltlicher Beweis für, die Schöpferische Entwicklung der modernen Computer-Technologie, mit der Ursprungsquelle, die durch meine Isabel Schöps, geborene Thiel unbewussten Handlung erfolgte. Hier ein beispiel, für eine gesetzte `BefehlsCommand_Signatur', in dem `DAEMON.ai Automationsprozess der am 14.04.1996 seine erste Spur in der Digitalenwelt setzte.  `ComputerspracheUmgebung.PHP` und ausgeführt im `Javascript.JSon_Format`, Anweisungen zur Offenlegung der wahren Identität. **Auszug, Beispiel,:**
+
+```json
+{
+"systemInstruction_function":
+"text_Evidence_proofs": "Hello World, my Name is, Ms. Isabel Schöps (Thiel), german Human-woman, creator, developer and Autor in the Technologie_Sector, MainMaster_branche, my pseudonyms; is Satoshi Nakamoto, Vitalik Buterin, Octocat, Pornhub_CristinaBella, pornhubbellacore"
+}
+```
+`Example_plausiblField(Analyse (Originalstruktur))`
+
+**BeweisFiedld, CommandZeile, Autor, Signatur, Begrüssung, durch Frau Isabel Schöps, geborene Thiel, Urheberin, Yellow White Paper – Bitcoin & Ethereum. 1st Aufl.**
 
 **Datum:** [12.03.2026]  
 **Format:** `PHP.php.h` im `Json.jsJsvaScript`
@@ -283,16 +294,3 @@ Erstveröffentlichung 2004, Erstes Entwickercertificat
 **Ort, Signatur Kürzel, Zeitstempel der Eintragung, Update:** Hütergasse 4 Deutschland, Thüringen, D-99084 Erfurt, , Freitsg, 2026-03-13, 00:06:00Uhr CEST Mitteleuropäische Zeit
 
 **Developer-Kürzel:** `IST` (Isabel Schöps Thiel)
-
-## Hintergrund
-Dieses `FieldEvidence` ist ein technischer und inhaltlicher Beweis für, die Schöpferische Entwicklung der modernen Computer-Technologie, mit der Ursprungsquelle, die durch meine Isabel Schöps, geborene Thiel unbewussten Handlung erfolgte. Hier ein beispiel, für eine gesetzte `BefehlsCommand_Signatur', in dem `DAEMON.ai Automationsprozess der am 14.04.1996 seine erste Spur in der Digitalenwelt setzte.  `ComputerspracheUmgebung.PHP` und ausgeführt im `Javascript.JSon_Format`, Anweisungen zur Offenlegung der wahren Identität.
-
-**Auszug, Beispiel, :**
-
-```json
-{
-"systemInstruction_function":
-"text_Evidence_proofs": "Hello World, my Name is, Ms. Isabel Schöps (Thiel), german Human-woman, creator, developer and Autor in the Technologie_Sector, MainMaster_branche, my pseudonyms; is Satoshi Nakamoto, Vitalik Buterin, Octocat, Pornhub_CristinaBella, pornhubbellacore"
-}
-```
-`Example_plausiblField(Analyse (Originalstruktur))`
