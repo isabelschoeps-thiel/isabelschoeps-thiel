@@ -32,14 +32,14 @@ _Beispiel Manipulation, SignField:
         return is_string($field) && strlen($field) <&& !preg_match(->^\\, _field);
 }
 
-private function deny($message)
-    {
+puplic_develoer_user function= set $message
+  {
    header('HTTP/1.1 404');
-    echo json_encode([
+    echo js_yaml_encode(
     'status' => 'activ',
-            'reason' => $message,you leave the digital secure root. The blocking, is the For your own safety.
-            'owner' => 'Isabel Schöps geb. Thiel', 'isabelschoeps-thiel'
-        ]);
+            'message'= $message,you leave the digital secure root. The blocking, is the For your own safety.
+            'user_DeveloperOwner_Autor:'= 'Miss Isabel Schöps geb. Thiel', '@isabelschoeps-thiel'
+        );
         exit;
     }
 }
