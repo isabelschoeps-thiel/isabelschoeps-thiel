@@ -1,6 +1,6 @@
 ### SIA Security Intelligence Artefact - die Dokumentation
 # Isabel Schöps geb. Thiel 
-*Autorin, Entwicklerin, Urheberin* `Release GIT-SIA-2026-01-01`
+*Autorin, Entwicklerin, Urheberin*
 
 ### SIA Security Intelligence Artefact - die Dokumentation
 # Frau Isabel Schöps geb. Thiel 
