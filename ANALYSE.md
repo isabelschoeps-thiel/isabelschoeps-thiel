@@ -7,9 +7,9 @@ Massgebliche Wohnanschrift und Adresse der Urheberin Frau Schöps geborenr Thiel
 ---
 
 ## Einleitung und Grund für die Entstehung des Gutachtens
-Dies ist keine gewöhnliche technische Analyse.  
+Dies ist keine gewöhnliche technische Analyse. Was hier dokumentiert wurde, ist ein **einmaliger Fall systematischer Urheberrechtsverletzung, digitaler Ausbeutung und öffentlicher Zerstörung** einer Einzelperson – durch Menschen, Institutionen und Plattformen, die sich in Schweigen hüllen, während sie täglich davon profitieren.
 
-Was hier dokumentiert wird, ist ein **einmaliger Fall systematischer Urheberrechtsverletzung, digitaler Ausbeutung und öffentlicher Zerstörung** einer Einzelperson – durch Menschen, Institutionen und Plattformen, die sich in Schweigen hüllen, während sie täglich profitieren.
+Dieses Repository ist teil des rechtswissenschaftlichen Gutachten und der [Chain of Custody auf Zenodo.org](https://zenodo.org)
 
 ---
 
