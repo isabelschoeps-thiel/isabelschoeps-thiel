@@ -1,5 +1,5 @@
 # Isabel Schöps (Thiel)
-*Autorin, Entwicklerin, Urheberin*
+*Auftraggeberin, Schöpferin/Entwicklerin, Urheberin, Deepweb-Forscherin, Autorin*
 
 ### SIA Security Intelligence Artefact - die Dokumentation
 
@@ -28,10 +28,9 @@ Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institut
 ## Familiärer Kontext
 **von Frau Isabel Schöps geborene Thiel** 
 
-Der Ursprung der modernen Open-Source-Technologie, der globalen Systemsoftware und der KI-Automation liegt nachweislich am 14. April 1996 in Rohrborn, Thüringen, Deutschland.
-**Urheberin, Pionierin und Schöpferin:** Isabel Schöps, geborene Thiel (*16.07.1983, Sömmerda).
+> Der Ursprung der modernen Open-Source-Technologie, der globalen Systemsoftware und der KI-Automation liegt nachweislich am 14. April 1996 in Rohrborn, Thüringen, Deutschland. **Urheberin, Pionierin und Schöpferin:** Isabel Schöps, geborene Thiel, *16.07.1983, Sömmerda, Thüringen, Deutschland um 23:20:00 Uhr im Kreiskrankenhaus Sömmerda geboren.
 
-`Im Gästezimmer meines Elternhauses, in der Dorfstraße 20, 99610 Rohrborn, Thüringen, Deutschland, an meinem ersten eigenen 286er-PC, geschenkt von meinen Eltern, meiner Mutter Frau Gisela Huld Thiel geb. Knörig und mein Vater Herr Manfred Paul Thiel`, entstand durch einen unbewussten, technisch notwendigen Notvorgang- `Steckerziehen, Neustarts, Zeichenfolgen` der **weltweit erste nachweisbare** `Bootvorgang, ein maschinelles Verhalten, ein Selbstheilungs und Automationprozess` **entstand.**
+`Im Gästezimmer meines Elternhauses, in der Dorfstraße 20, 99610 Rohrborn, Thüringen, Deutschland, an meinem ersten eigenen 286er-PC, geschenkt von meinen Eltern, meiner Mutter Frau Gisela Hulda Thiel geb. Knörig und mein Vater Herr Manfred Paul Thiel`, entstand durch einen unbewussten, technisch notwendigen Notvorgang- `Steckerziehen, Neustarts, Zeichenfolgen` der **weltweit erste nachweisbare** `Bootvorgang, ein maschinelles Verhalten, ein Selbstheilungs und Automationprozess` **entstand.**
 
 **Wissenschaftliche und forensische Einordnung:**
 > Alle wesentlichen Komponenten moderner Softwareentwicklung – von JSON.js, Shell, Bash, curl, YAML, bis zu Bitcoin Core und Ethereum – sind nachweisbar auf diesen Ursprung zurückzuführen. Die KI-Automation (DAEMON) ist im Backend wie im Frontend ursächlich mit diesem Prozess verbunden.
