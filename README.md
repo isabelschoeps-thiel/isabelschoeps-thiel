@@ -1,10 +1,7 @@
-### SIA Security Intelligence Artefact - die Dokumentation
-# Isabel Schöps geb. Thiel 
+# Isabel Schöps (Thiel)
 *Autorin, Entwicklerin, Urheberin*
 
 ### SIA Security Intelligence Artefact - die Dokumentation
-# Frau Isabel Schöps geb. Thiel 
-*Auftraggeberin, Entwicklerin, Urheberin, Autorin* 
 
 **Forensisches Gutachten: Ursprung, Entwicklung und Nachweis der globalen Systemsoftware und Open-Source-Technologie**
 **Aktenzeichen: INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**
@@ -29,7 +26,7 @@ Bitte beachten Sie meine **Würdigung, Danksagung und Spendenzusage und institut
 ---
 
 ## Familiärer Kontext
-**die Dokumentation** 
+**von Frau Isabel Schöps geborene Thiel** 
 
 Der Ursprung der modernen Open-Source-Technologie, der globalen Systemsoftware und der KI-Automation liegt nachweislich am 14. April 1996 in Rohrborn, Thüringen, Deutschland.
 **Urheberin, Pionierin und Schöpferin:** Isabel Schöps, geborene Thiel (*16.07.1983, Sömmerda).
